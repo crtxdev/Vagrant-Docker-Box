@@ -1,0 +1,12 @@
+{
+  "name": "vagrantbox",
+  "memory": 10240,
+  "cpus": 2,
+  "ip": "192.168.10.111",
+  "synced-folders": [
+    {
+      "from": "/Volumes/Projects",
+      "to": "/Volumes/Projects"
+    }
+  ]
+}
